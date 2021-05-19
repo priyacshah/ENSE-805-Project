@@ -16,10 +16,10 @@ A platform to get all support to improve your mental health according to your te
 
 # Contribution in project: [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-Developer/Designer: Priya Shah
-Reviewer: Dr. Timothy Maciag
-Instructor: [Dr. Timothy Maciag](https://www.maciag.ca/)
-Anyone who is interested can give their ideas by contributing in this project. You can contribute in this by opening an issue and discuss the idea.
+* Developer/Designer: Priya Shah
+* Reviewer: Dr. Timothy Maciag
+* Instructor: [Dr. Timothy Maciag](https://www.maciag.ca/)
+* Anyone who is interested can give their ideas by contributing in this project. You can contribute in this by opening an issue and discuss the idea.
 
 # Implementation and technology/software:
 

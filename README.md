@@ -5,8 +5,8 @@ ENSE-805-Project
 # Project idea:
 A platform to get all support to improve your mental health according to your terms. When there will be no one, this tool site will be with you to uplift your mood. Consider it as your feel-better toolkit, including goals and moods tracking, share the bad day with stranger without a second thought and affirm everyday to evaluate your self-esteem. This will help the people of community to overcome mental helath challenges.
 
-# Project Introductory video:
-Press [here](https://www.youtube.com/watch?v=wn4VMcM1Duo) to see **Project Introductory Video**.
+# Project Introductory vlog:
+Click [here](https://www.youtube.com/watch?v=wn4VMcM1Duo) to see **Project Introduction**.
 
 # Documentation:
 

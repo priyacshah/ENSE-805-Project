@@ -1,6 +1,6 @@
 # WorryNot
 ENSE-805-Project
-The design and implementation of this project will focus on the Goal #3 of UN SDG(s) :- Good health and Well-being
+* The design and implementation of this project will focus on the Goal #3 of UN SDG(s) :- Good health and Well-being
 
  
 # Project idea:

@@ -13,6 +13,7 @@ Click [here](https://www.youtube.com/watch?v=wn4VMcM1Duo) to see **Project Intro
 * [Emerging picture](https://github.com/priyacshah/ENSE-805-Project/blob/main/Documents/P03%20-%20805%20-%20Activity%20-%20Drafting%20an%20emerging%20picture.pdf)
 * [Project Requirement document](https://github.com/priyacshah/ENSE-805-Project/blob/main/Documents/P07%20-%20805%20-%20Activity%20-%20Project%20Requirements%20Template.pdf)
 * [Project scope](https://github.com/priyacshah/ENSE-805-Project/blob/main/Documents/P06%20-%20805%20-%20Activity%20-%20Project%20Scope%20Statement%20Template.pdf)
+* [Activity-Based Schedule](https://github.com/priyacshah/ENSE-805-Project/projects)
 * All other documents can be seen [here](https://github.com/priyacshah/ENSE-805-Project/tree/main/Documents)
 
 # Contribution in project: [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)

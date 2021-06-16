@@ -1,5 +1,5 @@
 # Project Commercial
-[See what WorryNot is? (Commercial Video)](https://www.youtube.com/watch?v=E_i0O_LQ6S4)
+[See what WorryNot is! (Commercial Video)](https://www.youtube.com/watch?v=E_i0O_LQ6S4)
 
 # WorryNot (https://worrynot.site/)
 ENSE-805-Project
